@@ -11,15 +11,15 @@
 //     }
 //     return array;
 // }
-// console.log(shift('cas'));
+// console.log(shift(["apelsin", "banan", "mandarin"]));
 
 
-function join(arr, arr2) {
-    let string = '';
-    for (let i = 0; i < arr.length; i++) {
-        string += arr[i];
-        string += arr2;
-    }
-    return string;
-}
-console.log(join(['My', 'name', "is", 'Azamat',], ' '));
+// function join(arr, arr2) {
+//     let string = '';
+//     for (let i = 0; i < arr.length; i++) {
+//         string += arr[i];
+//         string += arr2;
+//     }
+//     return string;
+// }
+// console.log(join(['My', 'name', "is", 'Azamat',], ' '));
